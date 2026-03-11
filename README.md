@@ -18,7 +18,7 @@ This plugin is specifically designed to work with normalized hyphen formatting (
 
 ## Installation
 
-1. Download `DialogueBalancer.dll` from the [Releases](https://github.com/fyhtma/DialogueBalancer/releases) section.
+1. Download `DialogueBalancer.dll` from the [Releases](https://github.com/ChipFIN/DialogueBalancer/releases) section.
 2. In Subtitle Edit: **File → Open data folder...**
 3. Open the `Plugins` folder and place the `.dll` file inside.
 4. Restart Subtitle Edit: the tool appears under **Tools → Dialogues - balance short lines...**
